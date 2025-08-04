@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3D54CE&center=true&vCenter=true&width=800&lines=Hi+I'm+Srinivaas+Jaganaathan!;Performance+Test+Lead+%7C+Cloud+Computing+%7C+Project+Management;9%2B+Years+of+Expertise+in+Tech+%26+Leadership" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3D54CE&center=true&vCenter=true&width=1200&lines=Hi+I'm+Srinivaas+Jaganaathan!;Performance+Test+Lead+%7C+Cloud+Computing;+%7C+Project+Management;9%2B+Years+of+Expertise+in+Tech+%26+Leadership" alt="Typing SVG" />
 </p>
 </p>
 
