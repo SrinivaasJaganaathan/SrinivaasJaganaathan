@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=3D54CE&center=true&vCenter=true&width=1200&lines=Hi+I'm+Srinivaas+Jaganaathan!;Performance+Test+Lead+%7C+M.Sc.+Cloud+Computing+%7C+Project+Management;9%2B+Years+of+Expertise+in+Tech+%26+Leadership" alt="Typing SVG" />
 </p>
 </p>
-### 💡 Quote of the Day
-
-> "Your daily inspirational quote will appear here!"
-
 ---
 
 ### 👋 About Me
